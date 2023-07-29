@@ -1,0 +1,19 @@
+[
+    {
+        "name":"Ashabil",
+        "fullName":"Mohammad Ashabil Syauqi",
+        "job":"Student",
+        "age":20,
+        "skillsSet":[
+            {
+                "title": "React js",
+                "skills": [
+                    "Fetching API",
+                    "React Router",
+                    "React Components",
+                    "React Library"
+                ]
+            }
+        ]
+    }
+]
