@@ -43,8 +43,9 @@ const Home = ({ data }) => {
               <BsLinkedin />
             </a>
             <a
-              href="..\cv\Curriculum Vitae updated.pdf"
-              download="Curriculum Vitae updated.pdf"
+              href="https://drive.google.com/file/d/1QcYTim88fnGL2I4IH1nAqgSTuv1IpePH/view?usp=sharing"
+              rel="noreferrer"
+              target="_blank"
             >
               <HiDocumentText /> Download Resume
             </a>
