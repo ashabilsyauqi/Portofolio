@@ -26,7 +26,8 @@
   /* background-color: grey; */
 }
 .about {
-  height: 800px;
+  height: 1000px;
+  /* background-color: red; */
 }
 .skills {
   height: 100vh;
@@ -94,6 +95,9 @@ h3 {
 .social-media > a {
   color: #292929;
   font-size: 1.5rem;
+}
+.social-margin{
+  margin-bottom: 100px;
 }
 
 /* photo */

@@ -52,11 +52,6 @@ const Home = ({ data }) => {
           </div>
         </div>
       </div>
-      <div className="btn-wrap">
-        <Link className="button-56" to="/about">
-          Click me to know me
-        </Link>
-      </div>
     </div>
   );
 };
