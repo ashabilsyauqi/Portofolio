@@ -1,5 +1,5 @@
 import "./Pages.css";
-import { Link } from "react-router-dom";
+
 import profile from "../Images/profile.jpg";
 import { BsInstagram } from "react-icons/bs";
 import { ImGithub } from "react-icons/im";
@@ -47,7 +47,7 @@ const Home = ({ data }) => {
               rel="noreferrer"
               target="_blank"
             >
-              <HiDocumentText /> Download Resume
+              <HiDocumentText />
             </a>
           </div>
         </div>
