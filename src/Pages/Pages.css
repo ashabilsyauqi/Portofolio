@@ -250,3 +250,15 @@ h3 {
   font-size: 20px;
 }
 
+.h-modal{
+  height: 100%;
+}
+.close-modal{
+  width: 100%;
+}
+.closeSymbol{
+  background-color: #292929;
+  color: white;
+  padding: 2px 3px;
+  /* border-radius: 5px; */
+}

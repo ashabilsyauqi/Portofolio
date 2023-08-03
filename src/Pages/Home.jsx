@@ -5,6 +5,7 @@ import { BsInstagram } from "react-icons/bs";
 import { ImGithub } from "react-icons/im";
 import { BsLinkedin } from "react-icons/bs";
 import { HiDocumentText } from "react-icons/hi";
+import ModalCard from "../Components/Modal";
 
 const Home = ({ data }) => {
   return (
@@ -51,6 +52,7 @@ const Home = ({ data }) => {
             </a>
           </div>
         </div>
+        <ModalCard />
       </div>
     </div>
   );
