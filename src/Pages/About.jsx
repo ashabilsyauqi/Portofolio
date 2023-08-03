@@ -7,14 +7,6 @@ const About = () => {
         <Aboutsrc />
 
       </div>
-      {/* <div className="btn-wrap new">
-      <Link className="button-56" to="/">
-          back
-        </Link>
-        <Link className="button-56" to="/skills">
-          Next
-        </Link>
-      </div> */}
     </div>
   );
 };
