@@ -50,9 +50,10 @@ const Home = ({ data }) => {
             >
               <HiDocumentText />
             </a>
+            <ModalCard />
           </div>
         </div>
-        <ModalCard />
+
       </div>
     </div>
   );
