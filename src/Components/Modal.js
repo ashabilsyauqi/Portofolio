@@ -27,6 +27,7 @@ export default function MyModal() {
         <AiFillQuestionCircle />
       </button>
       <Modal
+      className="modal"
         isOpen={modalIsOpen}
         shouldCloseOnOverlayClick={true}
         onRequestClose={() => setModalIsOpen(false)}
