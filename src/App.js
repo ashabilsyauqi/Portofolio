@@ -7,6 +7,8 @@ import Project from "./Pages/Project";
 import Contact from "./Pages/Contact";
 
 import { Routes, Route } from "react-router-dom";
+// import TiltComponent from "./Pages/SandBoxes/TiltComponent";
+import SandBoxes from "./Pages/SandBoxes/SandBoxes";
 
 
 
@@ -30,6 +32,7 @@ function App() {
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/project" element={<Project />} />
+        <Route path="/sandbox" element={<SandBoxes />} />
       </Routes>
     </>
   );
