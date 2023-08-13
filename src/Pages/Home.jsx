@@ -11,6 +11,7 @@ const Home = ({ data }) => {
   return (
     <div className="wrapper">
       <div className="box-content-home about">
+
         <div className="content images">
           <img className="photoProfile" src={profile} alt="Ashabil" />
         </div>
@@ -53,8 +54,9 @@ const Home = ({ data }) => {
             <ModalCard />
           </div>
         </div>
-
+  
       </div>
+
     </div>
   );
 };
