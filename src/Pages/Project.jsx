@@ -5,6 +5,7 @@ const Project = () => {
     { title: "Second Nature nol", url: "https://secondnature.vercel.app/" },
     { title: "Digital Services", url: "https://digital-services-pi.vercel.app/" },
     { title: "Tilt Component", url: "./sandbox" },
+    { title: "Movie Seach", url: "https://movies-search-sand.vercel.app/" },
   ];
   return (
     <div className="wrapper project height-general">
