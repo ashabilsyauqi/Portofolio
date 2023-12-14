@@ -5,7 +5,10 @@ import SkillCard from "../Components/SkillCard";
 import react from "../Images/react.png";
 import javascript from "../Images/javascript.png";
 import bootstrap from "../Images/bootstrap.png";
-import jquery from '../Images/Jquery.png'
+import jquery from '../Images/Jquery.png';
+import php from '../Images/pngwing.com.png';
+
+
 
 const Skills = () => {
   
@@ -61,6 +64,17 @@ const Skills = () => {
           "Jquery CDN",
         ],
       },
+      Skills: {
+        logoskill: php,
+        titleskill: "PHP",
+        setskill: [
+          "Form Handling",
+          "Basic",
+          "CRUD to Database",
+          "GET & POST",
+        ],
+      },
+      
     },
   ]
   
