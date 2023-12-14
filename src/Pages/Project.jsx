@@ -1,5 +1,6 @@
 import ProjectCard from "../Components/ProjectCard";
 
+
 const Project = () => {
   const projectSecondNature = [
     { title: "Second Nature nol", url: "https://secondnature.vercel.app/" },
@@ -11,6 +12,7 @@ const Project = () => {
     { title: "Movie Seach", url: "https://movies-search-sand.vercel.app/" },
     { title: "Weather App", url: "https://weather-self-mu.vercel.app/" },
     { title: "Applikasi Kasir", url: "http://localhost/aplikasi_kasir/kasir/riwayat_transaksi.php" },
+    { title: "Input Barang", url: "http://localhost/aplikasi_kasir/pages/insert.php" },
   ];
   return (
     <div className="wrapper project height-general">
